@@ -14,7 +14,7 @@
     "lucide-react": "^0.263.1",
     "recharts": "^2.7.2",
     "xlsx": "^0.18.5",
-    "@google/genai": "^0.1.1"
+    "firebase": "^10.7.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
